@@ -1,0 +1,13 @@
+{
+  "name": "unleashed-exporter",
+  "version": "0.0.2",
+  "description": "Ruckus Unleashed Prometheus Exporter",
+  "main": "exporter.js",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.4",
+    "express": "^5.2.1",
+    "fast-xml-parser": "^5.3.4",
+    "prom-client": "^15.1.3"
+  }
+}
